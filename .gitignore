@@ -1,0 +1,12 @@
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários do macOS
+.DS_Store
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de log
+*.log
